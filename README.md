@@ -1,7 +1,9 @@
 # June123
 🎓 Statistics student  
-📊 Interested in Data Science  
+📊 Interests
+- Statistics
+- Data analysis
+- Machine learning
+- Python / R 
 🇰🇷 Korea  
 
-## Skills
-Python / R 
